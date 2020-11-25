@@ -1,2 +1,4 @@
 os: linux-ppc64le
-script: arch
+script: 
+  - arch
+  - ifconfig
