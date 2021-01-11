@@ -1,4 +1,4 @@
-arch: ppc64le
+
 os: linux-ppc64le
 script: 
   - arch
