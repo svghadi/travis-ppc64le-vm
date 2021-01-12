@@ -1,4 +1,4 @@
-arch: ppc64le
+#arch: ppc64le (not required when deploying on power vm)
 os: linux-ppc64le
 
 script: 
