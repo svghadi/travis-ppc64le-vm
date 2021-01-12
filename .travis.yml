@@ -1,6 +1,6 @@
 
 os: linux-ppc64le
-dist: bionic
+
 script: 
   - arch
   - df -h
