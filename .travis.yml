@@ -6,4 +6,5 @@ script:
   - df -h
   - free -h
   - ifconfig
+  
 
