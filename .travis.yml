@@ -6,6 +6,7 @@ script:
   - df -h
   - free -h
   - ifconfig
-  
+  - sudo apt-get update -y
+  - sudo apt-get install gimp -y  
   
 
