@@ -1,5 +1,6 @@
 #arch: ppc64le (not required when deploying on power vm)
 os: linux-ppc64le
+dist: bionic
 
 script: 
   - arch
@@ -8,5 +9,6 @@ script:
   - ifconfig
   - sudo apt-get update -y
   - sudo apt-get install gimp -y  
+  
   
 
