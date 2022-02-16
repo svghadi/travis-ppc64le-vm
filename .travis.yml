@@ -7,8 +7,9 @@ script:
   - df -h
   - free -h
   - ifconfig
-  - sudo apt-get update -y
-  - sudo apt-get install gimp -y  
+  #- sudo apt-get update -y
+  #- sudo apt-get install gimp -y 
+  - curl https://get.rvm.io
   
   
 
